@@ -1,4 +1,8 @@
-## 💻 Pemrograman Web RPL
+# 💻 Pemrograman Web RPL
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Selamat datang di repositori **Pemrograman Web RPL**!  
 Repositori ini berisi kumpulan **tugas-tugas praktikum mata kuliah Pemrograman Web** pada program **Rekayasa Perangkat Lunak (RPL)**.
@@ -22,49 +26,26 @@ Proyek ini dibuat menggunakan **HTML, CSS**, dan **JavaScript dasar**, dengan fo
 1. **Clone** repositori ini:
    ```bash
    git clone https://github.com/zhafraz/Pemrograman_Web_RPL.git
-````
-
 2. Pilih folder tugas yang ingin dijalankan, misalnya:
-
    ```bash
    cd Pemrograman_Web_RPL/TUGAS2
-   ```
-
-3. Buka file `index.html` menggunakan browser (Chrome, Edge, Firefox, dll).
-   💡 *Tips:* gunakan **Live Server** di VS Code agar hasil tampilan lebih cepat dilihat.
-
----
-
-## 🧠 Teknologi yang Digunakan
-
-* **HTML5** → Struktur dan konten halaman
-* **CSS3** → Gaya visual dan tata letak
-* **JavaScript** → Interaktivitas dasar (di folder `latvarjs`)
+3. Buka file index.html menggunakan browser (Chrome, Edge, Firefox, dll).
+   
+   💡 Tips: gunakan Live Server di VS Code agar hasil tampilan lebih cepat dilihat.
 
 ---
 
 ## 🧩 Materi yang Dipelajari
 
+
 ✅ Struktur dasar dokumen HTML
+
 ✅ Penerapan atribut dan elemen semantik
-✅ Penggunaan **form**, **table**, dan **media (gambar/video)**
-✅ Desain menggunakan **CSS eksternal**
-✅ Variabel dan operasi dasar di **JavaScript**
+
+✅ Penggunaan form, table, dan media (gambar/video)
+
+✅ Desain menggunakan CSS eksternal
+
+✅ Variabel dan operasi dasar di JavaScript
 
 ---
-
-## ✨ Tentang Penulis
-
-**👤 [Thiraza Naufal Z.W](https://github.com/zhafraz)**
-Mahasiswa **Rekayasa Perangkat Lunak (RPL)**
-Sedang mempelajari dasar pengembangan web (front-end dan back-end).
-
----
-
-## ❤️ Dukungan
-
-Jika repositori ini membantu kamu belajar,
-silakan tekan ⭐ **Star** di bagian atas halaman GitHub ini!
-Terima kasih 🙌
-
-```
