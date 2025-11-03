@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Selamat datang di repositori **Pemrograman Web RPL**!  
-Repositori ini berisi kumpulan **tugas-tugas praktikum mata kuliah Pemrograman Web** pada program **Rekayasa Perangkat Lunak (RPL)**.
+Repositori ini berisi kumpulan **tugas-tugas praktikum Pemrograman Web** pada program **Rekayasa Perangkat Lunak (RPL)**.
 
 Proyek ini dibuat menggunakan **HTML, CSS**, dan **JavaScript dasar**, dengan fokus pada pemahaman struktur dokumen web, penerapan gaya tampilan, serta penggunaan variabel dan logika sederhana di JavaScript.
 
